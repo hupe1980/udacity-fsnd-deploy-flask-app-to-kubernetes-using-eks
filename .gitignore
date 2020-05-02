@@ -29,3 +29,4 @@ htmlcov/
 
 venv
 .vscode
+!env_file
